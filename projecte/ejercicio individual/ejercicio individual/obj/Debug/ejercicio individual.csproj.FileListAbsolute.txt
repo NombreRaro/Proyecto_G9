@@ -1,0 +1,20 @@
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\bin\Debug\ejercicio individual.exe.config
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\bin\Debug\ejercicio individual.exe
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\bin\Debug\ejercicio individual.pdb
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.csproj.AssemblyReference.cache
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio_individual.Form1.resources
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio_individual.Properties.Resources.resources
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.csproj.GenerateResource.cache
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.csproj.CoreCompileInputs.cache
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.exe
+C:\Users\arnau\source\repos\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.pdb
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\bin\Debug\ejercicio individual.exe.config
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\bin\Debug\ejercicio individual.exe
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\bin\Debug\ejercicio individual.pdb
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.csproj.AssemblyReference.cache
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio_individual.Form1.resources
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio_individual.Properties.Resources.resources
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.csproj.GenerateResource.cache
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.csproj.CoreCompileInputs.cache
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.exe
+C:\Arnau\Uni\SO\projecte\ejercicio individual\ejercicio individual\obj\Debug\ejercicio individual.pdb
