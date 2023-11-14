@@ -1,9 +1,5 @@
 # Proyecto_G9
 
-Ver.1 generado por Arnau
-
-Ver.1 verificado por Miguel
-
-Ver.1 comunicado por Iván
+Ver.4
 
 https://youtu.be/vWwdFMQyN4w
