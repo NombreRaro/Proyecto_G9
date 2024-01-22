@@ -32,7 +32,8 @@ INSERT INTO Jugador(username,password,ganadas) VALUES('Carolina Herrera','123123
 INSERT INTO Jugador(username,password,ganadas) VALUES('Donald Trump','macarrronsperdinar',2);
 INSERT INTO Jugador(username,password,ganadas) VALUES('ELJOseleete','12341234password',1);
 INSERT INTO Jugador(username,password,ganadas) VALUES('Arnau','tres',4);
-
+INSERT INTO Jugador(username,password,ganadas) VALUES('arnau123','arnau123',5);
+INSERT INTO Jugador(username,password,ganadas) VALUES('tres','tres',3);
 INSERT INTO Partida(fecha,duracion,ganador) VALUES('20220612','00:20:43','ajudan');
 INSERT INTO Partida(fecha,duracion,ganador) VALUES('20220612','00:43:32','ajudan');
 INSERT INTO Partida(fecha,duracion,ganador) VALUES('20220612','01:32:34','MichaelJackson');
