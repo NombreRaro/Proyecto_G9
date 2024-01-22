@@ -1,5 +1,9 @@
 # Proyecto_G9
 
-Ver.4
+Ver. final 
 
-https://youtu.be/vWwdFMQyN4w
+Generado por: Arnau
+Verificado por: Miguel
+Comunicado por: Iván
+
+https://youtu.be/_5cij33o76M
